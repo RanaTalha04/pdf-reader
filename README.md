@@ -1,3 +1,3 @@
-### PDF Reader in langchain
+### PDF Reader in LangChain
 
-without using chains
+PDF Reader in LangChain without using the chains
